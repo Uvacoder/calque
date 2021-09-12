@@ -1,5 +1,7 @@
 <img src="logo.png" width="169px">
 
+calque.io
+
 Reactive calculator
 
 ## Expressions
